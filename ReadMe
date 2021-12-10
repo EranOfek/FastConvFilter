@@ -1,0 +1,16 @@
+% 2D Filtering an convolution utility
+%    FFT implementation and choose automatically between
+%    the matlab implementation and the fft implmentation based
+%    on speed considerations.
+%    + Convolution over NaN values.
+%
+%       Original version is from the MAAT package: https://github.com/EranOfek/MAAT
+%       Most recent version from the AstroPack package: https://github.com/EranOfek/AstroPack
+%       FOR FULL FUNCTIONALITY YOU WILL NEED TO INSTALL THESE PACKAGES INSTEAD
+% If you use this, please cite: Ofek (2014; ascl:1407.005)
+%
+%   Usage eaxmples:
+%       See specific functions help.
+%       Note to remove the package names from the examples.
+%
+%
